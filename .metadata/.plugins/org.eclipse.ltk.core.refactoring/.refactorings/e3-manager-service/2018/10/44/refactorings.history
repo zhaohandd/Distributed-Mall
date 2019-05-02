@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;total&apos; from expression &apos;pageInfo.getTotal()&apos;&#x0D;&#x0A;- Original project: &apos;e3-manager-service&apos;&#x0D;&#x0A;- Variable name: &apos;total&apos;&#x0D;&#x0A;- Destination method: &apos;cn.e3mall.service.impl.ItemServiceImpl.getItemList()&apos;&#x0D;&#x0A;- Variable expression: &apos;pageInfo.getTotal()&apos;&#x0D;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;total&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src\/main\/java&lt;cn.e3mall.service.impl{ItemServiceImpl.java" name="total" replace="true" selection="1230 0" stamp="1540988842343" version="1.0"/>
+</session>

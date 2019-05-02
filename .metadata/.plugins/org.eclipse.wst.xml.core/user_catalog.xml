@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+  <uri name="http://www.springframework.org/schema/aop" uri="file:///E:/BaiduNetdiskDownload/12-宜立方商城或淘淘商城（ssm+dubbo+nginx+mysql统合项目二第35-48天）/e3商城_day01/黑马32期/01.教案-3.0/01.参考资料/spring约束/spring-aop-4.2.xsd"/>
+  <uri name="http://www.springframework.org/schema/beans" uri="file:///E:/BaiduNetdiskDownload/12-宜立方商城或淘淘商城（ssm+dubbo+nginx+mysql统合项目二第35-48天）/e3商城_day01/黑马32期/01.教案-3.0/01.参考资料/spring约束/spring-beans-4.2.xsd"/>
+  <uri name="http://www.springframework.org/schema/cache" uri="file:///E:/BaiduNetdiskDownload/12-宜立方商城或淘淘商城（ssm+dubbo+nginx+mysql统合项目二第35-48天）/e3商城_day01/黑马32期/01.教案-3.0/01.参考资料/spring约束/spring-cache-4.2.xsd"/>
+  <uri name="http://www.springframework.org/schema/context" uri="file:///E:/BaiduNetdiskDownload/12-宜立方商城或淘淘商城（ssm+dubbo+nginx+mysql统合项目二第35-48天）/e3商城_day01/黑马32期/01.教案-3.0/01.参考资料/spring约束/spring-context-4.2.xsd"/>
+  <uri name="http://www.springframework.org/schema/jdbc" uri="file:///E:/BaiduNetdiskDownload/12-宜立方商城或淘淘商城（ssm+dubbo+nginx+mysql统合项目二第35-48天）/e3商城_day01/黑马32期/01.教案-3.0/01.参考资料/spring约束/spring-jdbc-4.2.xsd"/>
+  <uri name="http://www.springframework.org/schema/jee" uri="file:///E:/BaiduNetdiskDownload/12-宜立方商城或淘淘商城（ssm+dubbo+nginx+mysql统合项目二第35-48天）/e3商城_day01/黑马32期/01.教案-3.0/01.参考资料/spring约束/spring-jee-4.2.xsd"/>
+  <uri name="http://www.springframework.org/schema/jms" uri="file:///E:/BaiduNetdiskDownload/12-宜立方商城或淘淘商城（ssm+dubbo+nginx+mysql统合项目二第35-48天）/e3商城_day01/黑马32期/01.教案-3.0/01.参考资料/spring约束/spring-jms-4.2.xsd"/>
+  <uri name="http://www.springframework.org/schema/lang" uri="file:///E:/BaiduNetdiskDownload/12-宜立方商城或淘淘商城（ssm+dubbo+nginx+mysql统合项目二第35-48天）/e3商城_day01/黑马32期/01.教案-3.0/01.参考资料/spring约束/spring-lang-4.2.xsd"/>
+  <uri name="http://www.springframework.org/schema/mvc" uri="file:///E:/BaiduNetdiskDownload/12-宜立方商城或淘淘商城（ssm+dubbo+nginx+mysql统合项目二第35-48天）/e3商城_day01/黑马32期/01.教案-3.0/01.参考资料/spring约束/spring-mvc-4.2.xsd"/>
+  <uri name="http://www.springframework.org/schema/oxm" uri="file:///E:/BaiduNetdiskDownload/12-宜立方商城或淘淘商城（ssm+dubbo+nginx+mysql统合项目二第35-48天）/e3商城_day01/黑马32期/01.教案-3.0/01.参考资料/spring约束/spring-oxm-4.2.xsd"/>
+  <uri name="http://www.springframework.org/schema/task" uri="file:///E:/BaiduNetdiskDownload/12-宜立方商城或淘淘商城（ssm+dubbo+nginx+mysql统合项目二第35-48天）/e3商城_day01/黑马32期/01.教案-3.0/01.参考资料/spring约束/spring-task-4.2.xsd"/>
+  <uri name="http://www.springframework.org/schema/tool" uri="file:///E:/BaiduNetdiskDownload/12-宜立方商城或淘淘商城（ssm+dubbo+nginx+mysql统合项目二第35-48天）/e3商城_day01/黑马32期/01.教案-3.0/01.参考资料/spring约束/spring-tool-4.2.xsd"/>
+  <uri name="http://www.springframework.org/schema/tx" uri="file:///E:/BaiduNetdiskDownload/12-宜立方商城或淘淘商城（ssm+dubbo+nginx+mysql统合项目二第35-48天）/e3商城_day01/黑马32期/01.教案-3.0/01.参考资料/spring约束/spring-tx-4.2.xsd"/>
+  <uri name="http://www.springframework.org/schema/util" uri="file:///E:/BaiduNetdiskDownload/12-宜立方商城或淘淘商城（ssm+dubbo+nginx+mysql统合项目二第35-48天）/e3商城_day01/黑马32期/01.教案-3.0/01.参考资料/spring约束/spring-util-4.2.xsd"/>
+  <uri name="http://www.springframework.org/schema/websocket" uri="file:///E:/BaiduNetdiskDownload/12-宜立方商城或淘淘商城（ssm+dubbo+nginx+mysql统合项目二第35-48天）/e3商城_day01/黑马32期/01.教案-3.0/01.参考资料/spring约束/spring-websocket-4.2.xsd"/>
+  <uri name="http://mybatis.org/dtd/mybatis-3-config.dtd" uri="file:///E:/BaiduNetdiskDownload/12-宜立方商城或淘淘商城（ssm+dubbo+nginx+mysql统合项目二第35-48天）/e3商城_day01/黑马32期/01.教案-3.0/01.参考资料/mybatis/mybatis3-dtd/mybatis-3-config.dtd"/>
+  <uri name="http://mybatis.org/dtd/mybatis-3-mapper.dtd" uri="file:///E:/BaiduNetdiskDownload/12-宜立方商城或淘淘商城（ssm+dubbo+nginx+mysql统合项目二第35-48天）/e3商城_day01/黑马32期/01.教案-3.0/01.参考资料/mybatis/mybatis3-dtd/mybatis-3-mapper.dtd"/>
+  <uri name="http://code.alibabatech.com/schema/dubbo.xsd" uri="file:///E:/BaiduNetdiskDownload/12-宜立方商城或淘淘商城（ssm+dubbo+nginx+mysql统合项目二第35-48天）/e3商城_day01/黑马32期/01.教案-3.0/01.参考资料/dubbo/dubbo.xsd"/>
+</catalog>

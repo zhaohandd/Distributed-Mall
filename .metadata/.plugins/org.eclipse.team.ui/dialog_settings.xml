@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ConfigureProjectWizard">
+		<item value="org.tigris.subversion.subclipse.ui.SharingWizard" key="selectedWizardId"/>
+	</section>
+	<section name="SynchronizeViewSettings">
+		<item value="1542974402713" key="lastactiveparticipant_sec_id"/>
+		<item value="org.tigris.subversion.subclipse.participant" key="lastactiveparticipant_id"/>
+		<item value="false" key="linkWithEditor"/>
+		<section name="org.tigris.subversion.subclipse.participant.1542974030978">
+		</section>
+		<section name="org.tigris.subversion.subclipse.participant.1540611781823">
+		</section>
+		<section name="org.tigris.subversion.subclipse.participant.1542974268337">
+		</section>
+		<section name="org.tigris.subversion.subclipse.participant.1542974126242">
+		</section>
+		<section name="org.tigris.subversion.subclipse.participant.1540611991204">
+			<item value="org.eclipse.team.ui.modelprovider_compressedfolders" key="org.eclipse.team.ui.P_LAST_MODELPROVIDER"/>
+			<item value="false" key="org.eclipse.team.ui.P_COMMIT_SET_ENABLED"/>
+		</section>
+		<section name="org.tigris.subversion.subclipse.participant.1542974160484">
+		</section>
+		<section name="org.tigris.subversion.subclipse.participant.1542268304095">
+			<item value="org.eclipse.team.ui.modelprovider_compressedfolders" key="org.eclipse.team.ui.P_LAST_MODELPROVIDER"/>
+			<item value="false" key="org.eclipse.team.ui.P_COMMIT_SET_ENABLED"/>
+		</section>
+		<section name="org.tigris.subversion.subclipse.participant.1540611188331">
+		</section>
+		<section name="org.tigris.subversion.subclipse.participant.1542974402713">
+			<item value="org.eclipse.team.ui.modelprovider_compressedfolders" key="org.eclipse.team.ui.P_LAST_MODELPROVIDER"/>
+			<item value="false" key="org.eclipse.team.ui.P_COMMIT_SET_ENABLED"/>
+		</section>
+		<section name="org.tigris.subversion.subclipse.participant.1542974298074">
+		</section>
+		<section name="org.tigris.subversion.subclipse.participant.1542974356054">
+		</section>
+		<section name="org.tigris.subversion.subclipse.participant.1542974233574">
+		</section>
+		<section name="org.tigris.subversion.subclipse.participant.1542974380333">
+		</section>
+		<section name="org.tigris.subversion.subclipse.participant.1542974085722">
+		</section>
+		<section name="org.tigris.subversion.subclipse.participant.1542974326314">
+		</section>
+	</section>
+</section>

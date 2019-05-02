@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;e3-searc-interface&apos;" deleteContents="false" description="Delete resource &apos;e3-searc-interface&apos;" element1="/e3-searc-interface" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1542258727893"/>&#x0A;<refactoring comment="Delete resource &apos;e3-sso&apos;" deleteContents="true" description="Delete resource &apos;e3-sso&apos;" element1="/e3-sso" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1542258758107"/>
+</session>

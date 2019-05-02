@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="bind"/>
+			<item value="Example_Where_Clause"/>
+			<item value="redis"/>
+			<item value="spring"/>
+			<item value="collection"/>
+			<item value="association"/>
+			<item value="setting"/>
+			<item value="enable"/>
+			<item value="lazy"/>
+			<item value="discriminator"/>
+			<item value="sql"/>
+			<item value="last_insert_id"/>
+			<item value="insert"/>
+			<item value="updateByExampleSelective"/>
+			<item value="select"/>
+		</list>
+		<list key="replacehistory">
+			<item value="cn.e3mall"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="300" key="DIALOG_WIDTH"/>
+		<item value="1|微软雅黑|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|微软雅黑" key="DIALOG_FONT_NAME"/>
+		<item value="409" key="DIALOG_HEIGHT"/>
+		<item value="247" key="DIALOG_X_ORIGIN"/>
+		<item value="228" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
